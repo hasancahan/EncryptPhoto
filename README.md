@@ -1,6 +1,6 @@
 # Encrypt-Photo
 
-Authors: Hakan YILDIZ, Hasan ÇAHAN
+Authors: Hasan ÇAHAN and Hakan YILDIZ
 
 Website: https://hakannyildiz.wordpress.com/2021/01/17/flutter-ile-fotograf-sifreleme-uygulamasi/
 
